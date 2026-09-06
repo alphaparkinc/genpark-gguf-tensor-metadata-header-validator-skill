@@ -1,0 +1,12 @@
+{
+  "name": "genpark-gguf-tensor-metadata-header-validator-skill",
+  "version": "1.0.0",
+  "description": "Validates GGUF/GGML model binary headers, tensor alignment, KV-cache parameters and architecture keys for edge runtimes.",
+  "category": "Edge AI Quantization & Model Sharding",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-gguf-tensor-metadata-header-validator-skill",
+  "verified": true,
+  "stars": 8
+}
